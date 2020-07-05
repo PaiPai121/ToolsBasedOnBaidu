@@ -1,1 +1,3 @@
-# ToolsBasedOnBaidu
+# 利用百度API建立的小工具
+
+## 文字识别
